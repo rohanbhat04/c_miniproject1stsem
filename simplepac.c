@@ -13,7 +13,8 @@ struct PacMan {
     int x;
     int y;
 };
-
+//adding new comment to test the the git bash and github as a practice 
+//added 2 lines 
 struct Ghost {
     int x;
     int y;
